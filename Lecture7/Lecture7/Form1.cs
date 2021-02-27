@@ -44,7 +44,6 @@ namespace Lecture7
             {
                 MessageBox.Show(ex.Message, "Exception");
             }
-            
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\bin\Debug\Lecture7_2.exe.config
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\bin\Debug\Lecture7_2.exe
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\bin\Debug\Lecture7_2.pdb
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.csprojAssemblyReference.cache
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.Form1.resources
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.Properties.Resources.resources
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.csproj.GenerateResource.cache
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.csproj.CoreCompileInputs.cache
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.exe
+C:\Users\torva\OneDrive\Programming\CSharp\VisualStudioProjects\Lecture7\Lecture7\Lecture7_2\obj\Debug\Lecture7_2.pdb

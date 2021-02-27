@@ -90,10 +90,21 @@ namespace Lecture7_2
                     imageListSmall.Images.Add(imageList1.Images[2]);
                     imageListLarge.Images.Add(imageList1.Images[2]);
                 }
-               
+
                 ListViewItem item = new ListViewItem(Path.GetFileName(file), imageListSmall.Images.Count - 1);
                 listView1.Items.Add(item);
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new Form2().Show();
+        }
+
+        private void listView1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if(listView1.SelectedItems.Count > 0)
+                listView1.DoDragDrop($@"{currentNode.Tag}\{listView1.SelectedItems[0].Text}", DragDropEffects.Copy);
         }
     }
 }
